@@ -1,0 +1,15 @@
+.btn-treehouse {
+  color: white;
+  background-color: rgb(243, 158, 172);
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 16px 24px;
+  display: inline-block;
+  box-shadow: 0 0 8px rgba(0,0,0,0.4);
+}
+
+.btn-treehouse:hover {
+background-color: rgb(203, 105, 122);
+transition: .3s;
+}
